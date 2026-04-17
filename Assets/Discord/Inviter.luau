@@ -1,7 +1,7 @@
 --[[
 
     [PC] - Category
-Discord Invite RPC Handler
+Discord Invite RPC Handler ✨
 
 ]]
 
