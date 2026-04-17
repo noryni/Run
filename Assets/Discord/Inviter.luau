@@ -1,3 +1,10 @@
+--[[
+
+    [PC] - Category
+Discord Invite RPC Handler
+
+]]
+
 if not cloneref then return '[Noryn] -> Security issue!' end
 local HttpService = cloneref(game:GetService('HttpService'))
 
