@@ -54,7 +54,7 @@ pcall(function()
             UserInputService.MouseIconEnabled = false
             LocalPlayer.CameraMaxZoomDistance = 0
             if GuiService then --[[
-                                     You can remove this part (if GuiService then), 
+                                     You can remove this [EXTRA] part (if GuiService then), 
                                      or add "if not UserSettings().GameSettings:InFullScreen() then"
                                  ]]
                 Take_Down()
